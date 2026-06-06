@@ -13,6 +13,7 @@
 - [Flexible Pavement](https://longueuil.geotechnical-engineering.org/flexible-pavement/)
 - [Footings](https://longueuil.geotechnical-engineering.org/footings/)
 - [Foundations](https://longueuil.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://longueuil.geotechnical-engineering.org/geophysics/)
 - [Grain Size](https://longueuil.geotechnical-engineering.org/grain-size/)
 - [Ground Improvement](https://longueuil.geotechnical-engineering.org/ground-improvement/)
 - [Grouting](https://longueuil.geotechnical-engineering.org/grouting/)
